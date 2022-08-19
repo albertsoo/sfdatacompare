@@ -1,5 +1,4 @@
 amqp==1.4.6
-anyjson==0.3.3
 billiard==3.3.0.20
 celery==3.1.18
 dj-database-url==0.3.0
